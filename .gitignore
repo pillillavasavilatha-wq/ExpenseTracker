@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# IntelliJ build output
+out/
+
+# Local expense data
+expenses.txt
