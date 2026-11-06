@@ -9,4 +9,9 @@
 out/
 
 # Local expense data
+expenses.txtbudgets.txt
+incomes.txt
+savings_goal.txt
 expenses.txt
+
+/budgets.txt
